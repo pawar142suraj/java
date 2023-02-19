@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author myuser
+ *
+ */
+module FirstJavaProject {
+}
